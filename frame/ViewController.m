@@ -3,7 +3,7 @@
 //  frame
 //
 //  Created by 韩 on 16/3/5.
-//  Copyright © 2016年 bigeyehanting@163.com All rights reserved.
+//  Copyright © 2016年 GitHubHanFighting@163.com All rights reserved.
 //
 
 #import "ViewController.h"
